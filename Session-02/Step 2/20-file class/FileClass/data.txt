@@ -1,0 +1,5 @@
+roses are red
+violets are blue
+booty booty
+
+hello bro this is writer.append(..)
